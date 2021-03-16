@@ -1,0 +1,84 @@
+{
+    "code": "200",
+    "msg": "操作成功",
+    "data": {
+        "childDepartments": [
+            {
+                "departmentKey": "RLXZB_V2",
+                "departmentName": "人力行政部",
+                "id": "150",
+                "parentId": "0",
+                "departmentNames": "人力行政部",
+                "departmentEmployees":[
+                    {
+                        "eid": "11",
+                        "employeeName": "斯图",
+                        "isLeave": "0",
+                        "open": "true"
+                    }, {
+                        "eid": "222",
+                        "employeeName": "张念",
+                        "isLeave": "0",
+                        "open": "true"
+                    }
+                ]
+            },
+            {
+                "departmentKey": "MES",
+                "departmentName": "MES部门",
+                "id": "200",
+                "parentId": "0",
+                "departmentNames": "MES部门",
+                "departmentEmployees":[
+                    {
+                        "eid": "134",
+                        "employeeName": "张三",
+                        "isLeave": "0",
+                        "open": "true"
+                    }, 
+                    {
+                        "eid": "343",
+                        "employeeName": "李四",
+                        "isLeave": "0",
+                        "open": "true"
+                    },
+                    {
+                        "eid": "66",
+                        "employeeName": "王五",
+                        "isLeave": "0",
+                        "open": "true"
+                    }
+                ]
+            },
+            {
+                "departmentKey": "ZNBN",
+                "departmentName": "法务部",
+                "id": "324",
+                "parentId": "0",
+                "departmentNames": "法务部",
+                "departmentEmployees":null
+            }
+        ],
+        "employees": [
+            {
+                "id": "53128111",
+                "employeeName": "亚nan",
+                "isLeave": "0",
+                "open": "false"
+            },
+            {
+                "id": "53128222",
+                "employeeName": "孟丽",
+                "isLeave": "0",
+                "open": "false"
+            },
+            {
+                "id": "53128333",
+                "employeeName": "奇美",
+                "isLeave": "0",
+                "open": "false"
+            }
+        ],
+        "titleDepartments": []
+    }
+}
